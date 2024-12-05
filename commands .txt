@@ -4,3 +4,10 @@
 
  command to 
  aws iam put-role-policy --role-name vmimport --policy-name vmimport --policy-document "file://C:\Users\EddyKimutai\Downloads\Validata.aws.Import.test\role-policy.json"
+
+
+
+
+ command to import vm
+ 
+ importaws ec2 import-image --description "My server VM" --disk-containers "file://C:\import\containers.json"
