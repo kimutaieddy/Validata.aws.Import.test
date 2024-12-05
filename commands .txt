@@ -10,4 +10,4 @@
 
  command to import vm
  
- importaws ec2 import-image --description "My server VM" --disk-containers "file://C:\import\containers.json"
+aws ec2 import-image --description "My server VM" --disk-containers "file://C:\import\containers.json"
