@@ -10,4 +10,4 @@
 
  command to import vm
  
-aws ec2 import-image --description "My server VM" --disk-containers "file://C:\import\containers.json"
+aws ec2 import-image --description "Validatavm OVA test server" --disk-containers "file://C:\Users\EddyKimutai\Downloads\Validata.aws.Import.test\containers.json"
