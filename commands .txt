@@ -11,3 +11,9 @@
  command to import vm
  
 aws ec2 import-image --description "Validatavm OVA test server" --disk-containers "file://C:\Users\EddyKimutai\Downloads\Validata.aws.Import.test\containers.json"
+
+
+
+monitor command 
+
+aws ec2 describe-import-image-tasks --import-task-ids import-ami-e92b7ddb4df2e087t
