@@ -10,7 +10,7 @@
           ],
           "Resource": [
              "arn:aws:s3:::validatavm",
-             "arn:aws:s3:::amzn-s3-demo-import-bucket/*"
+             "arn:aws:s3:::validatavm/*"
           ]
        },
        {
