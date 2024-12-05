@@ -1,6 +1,6 @@
 [
     {
-      "Description": "My Server OVA",
+      "Description": "Validatavm OVA test server",
       "Format": "ova",
       "UserBucket": {
           "S3Bucket": "validatavm",
